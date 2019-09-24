@@ -1,0 +1,417 @@
+activity;birth_year;budget;drink_level;marital_status;Rcuisine;smoker;transport;Upayment;userID;weight
+;1930;;abstemious;;Afghan;;;;U1024;40
+;1930;;abstemious;;Afghan;;;;U1122;40
+;1981;;abstemious;;Mexican;false;;cash;U1083;40
+;1989;;abstemious;;Mexican;;;;U1130;40
+;1992;medium;abstemious;single;Mexican;false;public;cash;U1079;53
+;1989;high;abstemious;single;Mexican;false;car owner;bank_debit_cards;U1107;87
+;1989;high;abstemious;single;Mexican;false;car owner;cash;U1107;87
+;1990;medium;abstemious;single;Game;false;public;cash;U1092;70
+professional;1940;medium;abstemious;single;Bagels;false;public;bank_debit_cards;U1004;44
+professional;1940;medium;abstemious;single;Bagels;false;public;cash;U1004;44
+professional;1940;medium;abstemious;single;Bakery;false;public;bank_debit_cards;U1004;44
+professional;1940;medium;abstemious;single;Bakery;false;public;cash;U1004;44
+professional;1940;medium;abstemious;single;Breakfast-Brunch;false;public;bank_debit_cards;U1004;44
+professional;1940;medium;abstemious;single;Breakfast-Brunch;false;public;cash;U1004;44
+professional;1940;medium;abstemious;single;Cafe-Coffee_Shop;false;public;bank_debit_cards;U1004;44
+professional;1940;medium;abstemious;single;Cafe-Coffee_Shop;false;public;cash;U1004;44
+professional;1940;medium;abstemious;single;Cafeteria;false;public;bank_debit_cards;U1004;44
+professional;1940;medium;abstemious;single;Cafeteria;false;public;cash;U1004;44
+professional;1940;medium;abstemious;single;Contemporary;false;public;bank_debit_cards;U1004;44
+professional;1940;medium;abstemious;single;Contemporary;false;public;cash;U1004;44
+professional;1940;medium;abstemious;single;Continental-European;false;public;bank_debit_cards;U1004;44
+professional;1940;medium;abstemious;single;Continental-European;false;public;cash;U1004;44
+professional;1940;medium;abstemious;single;Japanese;false;public;bank_debit_cards;U1004;44
+professional;1940;medium;abstemious;single;Japanese;false;public;cash;U1004;44
+professional;1940;medium;abstemious;single;Mexican;false;public;bank_debit_cards;U1004;44
+professional;1940;medium;abstemious;single;Mexican;false;public;cash;U1004;44
+professional;1952;medium;abstemious;married;Breakfast-Brunch;false;car owner;cash;U1055;70
+professional;1967;medium;casual drinker;single;Sushi;true;car owner;bank_debit_cards;U1074;68
+professional;1967;medium;casual drinker;single;Sushi;true;car owner;cash;U1074;68
+professional;1969;medium;social drinker;married;Mexican;true;car owner;bank_debit_cards;U1044;85
+professional;1969;medium;social drinker;married;Mexican;true;car owner;cash;U1044;85
+professional;1969;medium;social drinker;married;Mexican;true;car owner;MasterCard-Eurocard;U1044;85
+professional;1969;medium;social drinker;married;Mexican;true;car owner;VISA;U1044;85
+professional;1979;medium;casual drinker;single;Mexican;false;public;cash;U1051;74
+professional;1979;medium;casual drinker;single;Mexican;false;public;VISA;U1051;74
+professional;1983;medium;social drinker;single;Mexican;false;public;cash;U1069;60
+professional;1983;medium;social drinker;single;Mexican;false;public;MasterCard-Eurocard;U1069;60
+professional;1991;medium;casual drinker;single;Chinese;false;public;cash;U1017;79
+professional;1991;medium;casual drinker;single;Chinese;false;public;VISA;U1017;79
+professional;1930;medium;casual drinker;single;Barbecue;false;car owner;bank_debit_cards;U1106;65
+professional;1930;medium;casual drinker;single;Barbecue;false;car owner;cash;U1106;65
+professional;1982;medium;abstemious;single;Turkish;false;public;bank_debit_cards;U1117;58
+professional;1982;medium;abstemious;single;Turkish;false;public;cash;U1117;58
+professional;1982;medium;abstemious;single;Mexican;false;public;bank_debit_cards;U1020;40
+professional;1982;medium;abstemious;single;Mexican;false;public;cash;U1020;40
+professional;1982;medium;abstemious;widow;Japanese;false;public;cash;U1013;80
+professional;1982;medium;abstemious;widow;Japanese;false;public;MasterCard-Eurocard;U1013;80
+professional;1985;medium;abstemious;single;Contemporary;false;on foot;American_Express;U1041;40
+professional;1985;medium;abstemious;single;Contemporary;false;on foot;bank_debit_cards;U1041;40
+professional;1985;medium;abstemious;single;Contemporary;false;on foot;cash;U1041;40
+professional;1985;medium;abstemious;single;Contemporary;false;on foot;VISA;U1041;40
+professional;1989;medium;abstemious;single;Mexican;false;public;bank_debit_cards;U1103;120
+professional;1989;medium;abstemious;single;Mexican;false;public;cash;U1103;120
+professional;1990;medium;social drinker;single;Mexican;false;car owner;bank_debit_cards;U1061;40
+professional;1990;medium;social drinker;single;Mexican;false;car owner;cash;U1061;40
+professional;1983;medium;social drinker;single;Mexican;true;car owner;bank_debit_cards;U1078;69
+professional;1983;medium;social drinker;single;Mexican;true;car owner;cash;U1078;69
+professional;1983;medium;social drinker;single;Mexican;true;car owner;VISA;U1078;69
+student;1988;medium;casual drinker;single;Mexican;true;public;cash;U1048;65
+student;1989;low;social drinker;single;Family;true;public;cash;U1027;60
+student;1930;low;social drinker;single;Mexican;true;public;cash;U1038;97
+student;1930;medium;social drinker;single;Mexican;false;on foot;cash;U1056;61
+student;1943;high;abstemious;single;Mexican;false;car owner;bank_debit_cards;U1042;40
+student;1984;medium;social drinker;single;Burgers;false;car owner;cash;U1021;108
+student;1984;medium;social drinker;single;Chinese;false;car owner;cash;U1021;108
+student;1984;medium;social drinker;single;Pizzeria;false;car owner;cash;U1021;108
+student;1984;medium;social drinker;single;Regional;false;car owner;cash;U1021;108
+student;1984;medium;casual drinker;single;Mexican;false;public;bank_debit_cards;U1072;50
+student;1984;medium;casual drinker;single;Mexican;false;public;cash;U1072;50
+student;1986;medium;abstemious;married;Italian;false;public;cash;U1095;65
+student;1987;medium;social drinker;married;Mexican;false;public;bank_debit_cards;U1076;65
+student;1987;medium;social drinker;married;Mexican;false;public;bank_debit_cards;U1077;65
+student;1987;medium;social drinker;married;Mexican;false;public;cash;U1076;65
+student;1987;medium;social drinker;married;Mexican;false;public;cash;U1077;65
+student;1987;medium;social drinker;married;Mexican;false;public;VISA;U1076;65
+student;1987;medium;social drinker;married;Mexican;false;public;VISA;U1077;65
+student;1987;medium;social drinker;married;Mexican;false;public;bank_debit_cards;U1116;40
+student;1987;medium;social drinker;married;Mexican;false;public;cash;U1116;40
+student;1987;medium;social drinker;married;Mexican;false;public;VISA;U1116;40
+student;1987;medium;abstemious;single;Mexican;false;;cash;U1123;110
+student;1987;medium;abstemious;single;Mexican;false;public;cash;U1067;92
+student;1988;low;casual drinker;single;Afghan;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;African;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;American;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Armenian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Asian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Australian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Austrian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Bagels;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Bakery;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Bar;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Bar_Pub_Brewery;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Barbecue;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Basque;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Brazilian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Breakfast-Brunch;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;British;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Burgers;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Burmese;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Cafe-Coffee_Shop;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Cafeteria;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Cajun-Creole;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;California;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Cambodian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Canadian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Caribbean;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Chilean;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Chinese;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Contemporary;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Continental-European;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Cuban;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Deli-Sandwiches;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Dessert-Ice_Cream;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Dim_Sum;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Diner;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Doughnuts;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Dutch-Belgian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Eastern_European;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Eclectic;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Ethiopian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Family;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Fast_Food;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Filipino;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Fine_Dining;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;French;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Fusion;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Game;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;German;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Greek;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Hawaiian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Hot_Dogs;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Hungarian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Indian-Pakistani;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Indigenous;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Indonesian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;International;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Irish;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Israeli;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Italian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Jamaican;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Japanese;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Juice;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Korean;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Kosher;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Latin_American;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Lebanese;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Malaysian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Mediterranean;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Mexican;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Middle_Eastern;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Mongolian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Moroccan;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;North_African;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Organic-Healthy;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Pacific_Northwest;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Pacific_Rim;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Persian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Peruvian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Pizzeria;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Polish;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Polynesian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Portuguese;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Regional;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Romanian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Russian-Ukrainian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Scandinavian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Seafood;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Soup;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Southeast_Asian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Southern;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Southwestern;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Spanish;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Steaks;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Sushi;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Swiss;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Tapas;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Tea_House;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Tex-Mex;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Thai;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Tibetan;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Tunisian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Turkish;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Vegetarian;false;on foot;cash;U1135;66
+student;1988;low;casual drinker;single;Vietnamese;false;on foot;cash;U1135;66
+student;1988;medium;casual drinker;single;Mexican;false;public;cash;U1063;80
+student;1988;medium;casual drinker;single;Latin_American;false;public;bank_debit_cards;U1012;98
+student;1988;medium;casual drinker;single;Latin_American;false;public;cash;U1012;98
+student;1989;high;social drinker;single;Mexican;true;public;cash;U1099;70
+student;1989;high;social drinker;single;Mexican;true;public;VISA;U1099;70
+student;1989;low;social drinker;single;Mexican;false;public;cash;U1003;60
+student;1989;low;social drinker;single;Mexican;false;public;cash;U1137;72
+student;1989;low;casual drinker;single;American;false;car owner;cash;U1091;40
+student;1989;low;casual drinker;single;Mexican;false;car owner;cash;U1091;40
+student;1989;medium;abstemious;single;American;false;on foot;cash;U1001;69
+student;1989;medium;social drinker;single;Mexican;true;public;cash;U1015;87
+student;1989;medium;abstemious;single;Mexican;false;public;cash;U1032;40
+student;1989;medium;abstemious;single;Mexican;false;public;cash;U1028;77
+student;1989;medium;social drinker;single;Mexican;false;car owner;cash;U1050;73
+student;1989;medium;abstemious;single;Mexican;false;public;cash;U1011;68
+student;1989;medium;casual drinker;single;Family;false;public;cash;U1019;59
+student;1989;medium;abstemious;single;Mexican;false;public;bank_debit_cards;U1026;49
+student;1989;medium;abstemious;single;Mexican;false;public;cash;U1026;49
+student;1990;low;social drinker;single;Mexican;false;public;cash;U1037;52
+student;1990;low;social drinker;single;Bakery;true;on foot;cash;U1052;85
+student;1990;low;abstemious;single;Mexican;false;public;cash;U1002;40
+student;1990;low;casual drinker;single;Mexican;false;public;cash;U1053;66
+student;1990;low;casual drinker;single;Mexican;true;public;cash;U1029;58
+student;1990;low;casual drinker;single;Mexican;true;public;cash;U1089;54
+student;1990;medium;abstemious;single;Mexican;false;public;cash;U1096;40
+student;1990;medium;abstemious;single;Mexican;false;public;cash;U1097;58
+student;1990;medium;casual drinker;single;Burgers;false;public;cash;U1113;75
+student;1990;medium;casual drinker;single;Burgers;false;public;VISA;U1113;75
+student;1990;medium;casual drinker;single;Japanese;true;car owner;American_Express;U1093;80
+student;1990;medium;casual drinker;single;Japanese;true;car owner;VISA;U1093;80
+student;1990;medium;casual drinker;single;Mexican;false;car owner;cash;U1022;46
+student;1990;medium;social drinker;single;Mexican;false;public;;U1025;65
+student;1990;medium;casual drinker;single;Mexican;false;public;cash;U1034;50
+student;1991;low;casual drinker;single;Mexican;false;public;cash;U1081;52
+student;1991;low;abstemious;single;Cuban;false;public;cash;U1058;74
+student;1991;low;social drinker;single;Mexican;false;on foot;cash;U1033;54
+student;1991;medium;casual drinker;single;Mexican;false;on foot;cash;U1030;64
+student;1991;medium;casual drinker;single;Mexican;false;public;cash;U1134;52
+student;1991;medium;casual drinker;single;American;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Burgers;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Cafe-Coffee_Shop;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Cafeteria;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Fast_Food;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Hot_Dogs;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Italian;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Juice;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Mexican;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Pizzeria;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Soup;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Spanish;false;public;cash;U1060;82
+student;1991;medium;casual drinker;single;Tex-Mex;false;public;cash;U1060;82
+student;1991;medium;social drinker;single;Mexican;false;on foot;;U1088;62
+student;1991;medium;social drinker;single;Mexican;false;public;cash;U1036;76
+student;1991;medium;abstemious;single;Mexican;false;on foot;cash;U1114;58
+student;1991;medium;social drinker;single;Italian;true;car owner;cash;U1104;75
+student;1991;medium;social drinker;single;Italian;true;car owner;VISA;U1104;75
+student;1991;medium;abstemious;single;Cafe-Coffee_Shop;false;on foot;cash;U1009;75
+student;1991;medium;abstemious;single;Cafeteria;false;on foot;cash;U1009;75
+student;1991;medium;abstemious;single;Deli-Sandwiches;false;on foot;cash;U1009;75
+student;1991;medium;abstemious;single;Diner;false;on foot;cash;U1009;75
+student;1991;medium;abstemious;single;Family;false;on foot;cash;U1009;75
+student;1991;medium;abstemious;single;Fast_Food;false;on foot;cash;U1009;75
+student;1991;medium;abstemious;single;Mexican;false;on foot;cash;U1009;75
+student;1991;medium;social drinker;single;Cafeteria;false;public;cash;U1105;40
+student;1991;medium;social drinker;single;Mexican;false;public;cash;U1098;68
+student;1991;medium;abstemious;single;Mexican;false;car owner;bank_debit_cards;U1133;60
+student;1991;medium;abstemious;single;Mexican;false;car owner;cash;U1133;60
+student;1991;medium;casual drinker;single;Mexican;true;public;cash;U1084;65
+student;1991;medium;social drinker;single;Italian;false;car owner;bank_debit_cards;U1086;49
+student;1991;medium;social drinker;single;Italian;false;car owner;cash;U1086;49
+student;1991;medium;social drinker;single;Italian;false;car owner;VISA;U1086;49
+student;1991;medium;casual drinker;single;Mexican;false;car owner;cash;U1075;68
+student;1992;medium;abstemious;single;American;false;public;cash;U1005;65
+student;1992;medium;abstemious;single;Mexican;false;public;cash;U1119;68
+student;1992;medium;social drinker;single;Mexican;false;public;cash;U1054;59
+student;1992;medium;abstemious;single;American;false;public;cash;U1047;60
+student;1993;medium;abstemious;single;Mexican;false;car owner;cash;U1110;85
+student;1930;high;abstemious;single;Mexican;false;car owner;cash;U1071;40
+student;1930;low;abstemious;single;Mexican;false;public;cash;U1120;47
+student;1985;medium;casual drinker;single;Family;true;car owner;cash;U1035;69
+student;1985;medium;casual drinker;single;Family;true;car owner;VISA;U1035;69
+student;1985;medium;casual drinker;single;Mexican;false;car owner;cash;U1062;88
+student;1985;medium;casual drinker;single;Mexican;false;car owner;VISA;U1062;88
+student;1986;low;casual drinker;single;Cafeteria;false;public;cash;U1128;66
+student;1986;low;casual drinker;single;Hot_Dogs;false;public;cash;U1128;66
+student;1986;low;casual drinker;single;Mexican;false;public;cash;U1128;66
+student;1986;low;casual drinker;single;Pizzeria;false;public;cash;U1128;66
+student;1987;low;social drinker;single;Mexican;true;car owner;cash;U1080;80
+student;1987;medium;casual drinker;single;Pizzeria;true;public;cash;U1118;60
+student;1987;medium;abstemious;single;Mexican;false;on foot;cash;U1059;57
+student;1987;medium;social drinker;married;Mexican;false;car owner;cash;U1010;40
+student;1988;low;casual drinker;single;Mexican;false;public;cash;U1068;72
+student;1988;low;casual drinker;single;Mexican;false;car owner;cash;U1023;103
+student;1988;low;casual drinker;single;Afghan;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Australian;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Bar;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Burgers;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Cafe-Coffee_Shop;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Cafeteria;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Chinese;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Contemporary;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Diner;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Doughnuts;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Family;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Hot_Dogs;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Italian;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Latin_American;false;car owner;cash;U1101;50
+student;1988;low;casual drinker;single;Mexican;false;car owner;cash;U1101;50
+student;1988;medium;social drinker;single;Tex-Mex;false;car owner;cash;U1090;50
+student;1989;low;social drinker;single;Pizzeria;false;on foot;cash;U1102;90
+student;1989;low;casual drinker;single;Mexican;true;public;cash;U1018;65
+student;1989;low;casual drinker;single;Mexican;false;public;cash;U1129;69
+student;1989;medium;abstemious;single;Mexican;true;public;cash;U1082;63
+student;1989;medium;social drinker;single;Mexican;true;car owner;cash;U1006;75
+student;1989;medium;abstemious;single;Mexican;false;public;cash;U1065;55
+student;1989;medium;casual drinker;single;American;true;public;cash;U1057;69
+student;1989;medium;casual drinker;single;American;true;public;VISA;U1057;69
+student;1989;medium;social drinker;single;Regional;false;;cash;U1039;83
+student;1990;low;social drinker;single;Mexican;true;car owner;cash;U1136;50
+student;1990;low;social drinker;single;Regional;true;public;cash;U1115;76
+student;1990;low;casual drinker;single;Mexican;false;on foot;cash;U1126;65
+student;1990;low;casual drinker;single;Mexican;false;public;cash;U1125;57
+student;1990;medium;casual drinker;single;Mexican;false;public;cash;U1100;40
+student;1990;medium;social drinker;married;Mexican;true;car owner;cash;U1131;90
+student;1990;medium;social drinker;single;Bar;false;car owner;cash;U1046;82
+student;1990;medium;abstemious;single;Fast_Food;false;public;cash;U1014;53
+student;1990;medium;abstemious;single;Japanese;false;public;cash;U1014;53
+student;1991;high;casual drinker;single;Mexican;false;car owner;cash;U1045;68
+student;1991;high;casual drinker;single;Middle_Eastern;false;car owner;cash;U1045;68
+student;1991;high;casual drinker;single;Mongolian;false;car owner;cash;U1045;68
+student;1991;high;casual drinker;single;Moroccan;false;car owner;cash;U1045;68
+student;1991;low;casual drinker;single;Mexican;false;public;cash;U1124;51
+student;1991;low;casual drinker;single;Mexican;false;public;cash;U1070;47
+student;1991;medium;social drinker;single;Pizzeria;false;public;cash;U1138;54
+student;1991;medium;abstemious;single;Mexican;false;public;cash;U1094;59
+student;1991;medium;casual drinker;single;American;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Barbecue;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Cafe-Coffee_Shop;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Contemporary;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Eastern_European;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Fusion;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Indian-Pakistani;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Japanese;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Lebanese;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Moroccan;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Polish;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Polynesian;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Portuguese;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Regional;false;on foot;cash;U1016;70
+student;1991;medium;casual drinker;single;Mexican;true;car owner;cash;U1111;69
+student;1991;medium;casual drinker;single;Mexican;true;car owner;cash;U1112;69
+student;1994;medium;abstemious;single;Pizzeria;false;public;cash;U1040;73
+student;1983;medium;abstemious;single;American;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;American;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;American;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Asian;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Asian;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Asian;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Burgers;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Burgers;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Burgers;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Cafe-Coffee_Shop;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Cafe-Coffee_Shop;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Cafe-Coffee_Shop;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Cafeteria;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Cafeteria;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Cafeteria;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Chinese;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Chinese;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Chinese;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Deli-Sandwiches;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Deli-Sandwiches;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Deli-Sandwiches;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Dessert-Ice_Cream;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Dessert-Ice_Cream;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Dessert-Ice_Cream;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Family;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Family;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Family;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Fast_Food;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Fast_Food;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Fast_Food;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Game;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Game;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Game;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Hot_Dogs;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Hot_Dogs;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Hot_Dogs;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Japanese;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Japanese;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Japanese;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Latin_American;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Latin_American;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Latin_American;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Mexican;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Mexican;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Mexican;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Pizzeria;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Pizzeria;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Pizzeria;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Seafood;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Seafood;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Seafood;false;public;VISA;U1108;76
+student;1983;medium;abstemious;single;Sushi;false;public;cash;U1108;76
+student;1983;medium;abstemious;single;Sushi;false;public;MasterCard-Eurocard;U1108;76
+student;1983;medium;abstemious;single;Sushi;false;public;VISA;U1108;76
+student;1986;low;abstemious;single;Mexican;false;public;bank_debit_cards;U1066;45
+student;1986;low;abstemious;single;Mexican;false;public;cash;U1066;45
+student;1988;;abstemious;single;Mexican;false;car owner;cash;U1085;84
+student;1989;low;abstemious;single;Mexican;false;public;cash;U1109;57
+student;1989;low;social drinker;single;American;false;public;cash;U1008;68
+student;1989;low;social drinker;single;Cafe-Coffee_Shop;false;public;cash;U1008;68
+student;1989;low;social drinker;single;Cafeteria;false;public;cash;U1008;68
+student;1989;low;social drinker;single;Hawaiian;false;public;cash;U1008;68
+student;1989;low;social drinker;single;Hot_Dogs;false;public;cash;U1008;68
+student;1989;low;social drinker;single;Italian;false;public;cash;U1008;68
+student;1989;low;social drinker;single;Juice;false;public;cash;U1008;68
+student;1989;low;social drinker;single;Korean;false;public;cash;U1008;68
+student;1989;low;social drinker;single;Latin_American;false;public;cash;U1008;68
+student;1989;low;social drinker;single;Mexican;false;public;cash;U1008;68
+student;1989;low;casual drinker;single;Family;false;public;cash;U1007;60
+student;1989;medium;abstemious;single;Chinese;false;public;cash;U1087;53
+student;1989;medium;abstemious;single;Latin_American;false;public;cash;U1043;60
+student;1991;;casual drinker;single;Mexican;false;public;cash;U1049;55
+student;1991;;casual drinker;single;Mexican;false;public;cash;U1132;55
+student;1991;medium;casual drinker;single;Mexican;false;public;cash;U1064;94
+student;1992;low;abstemious;single;Mexican;false;public;cash;U1127;65
+unemployed;1989;medium;abstemious;widow;American;false;car owner;cash;U1073;118
+unemployed;1992;medium;abstemious;married;Mexican;false;;American_Express;U1031;40
+unemployed;1992;medium;abstemious;married;Mexican;false;;cash;U1031;40
+working-class;1987;medium;social drinker;married;Mexican;false;public;bank_debit_cards;U1121;90
+working-class;1987;medium;social drinker;married;Mexican;false;public;cash;U1121;90

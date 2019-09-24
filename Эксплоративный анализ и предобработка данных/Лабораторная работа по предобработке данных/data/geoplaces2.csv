@@ -1,0 +1,131 @@
+placeID;name;address;city;state_;alcohol;smoking_area;dress_code;price;area
+134999;Kiku Cuernavaca;Revolucion;Cuernavaca;Morelos;No_Alcohol_Served;none;informal;medium;closed
+132825;puesto de tacos;esquina santos degollado y leon guzman;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;low;open
+135106;El Rinc�n de San Francisco;Universidad 169;San Luis Potosi;San Luis Potosi;Wine-Beer;only at bar;informal;medium;open
+132667;little pizza Emilio Portes Gil;calle emilio portes gil;Cd Victoria;tamaulipas;No_Alcohol_Served;none;informal;low;closed
+132613;carnitas_mata;lic. Emilio portes gil;Cd Victoria;Tamaulipas;No_Alcohol_Served;permitted;informal;medium;closed
+135040;Restaurant los Compadres;Camino a Simon Diaz 155 Centro;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;high;closed
+132732;Taqueria EL amigo ;Calle Mezquite Fracc Framboyanes;Cd Victoria;Tamaulipas;No_Alcohol_Served;none;casual;low;open
+132875;shi ro ie;;;;Wine-Beer;section;informal;high;open
+132609;Pollo_Frito_Buenos_Aires;tampico;Cd Victoria;Tamaulipas;No_Alcohol_Served;not permitted;informal;low;closed
+135082;la Estrella de Dimas;Villa de Pozos 192 Villa de Pozos;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135070;Restaurante 75;Villa de Pozos 4497 Villa de Pozos;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135069;Abondance Restaurante Bar;Industrias 908 Valle Dorado;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;low;closed
+135065;El angel Restaurante;Venustiano Carranza 1625 Jardin;San Luis Potosi;San Luis Potosi;Wine-Beer;section;informal;high;closed
+135076;Restaurante Pueblo Bonito;Mexico 2015 Providencia;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;high;closed
+135086;Mcdonalds Parque Tangamanga;Lateral Salvador Nava Martinez 3145;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;medium;closed
+132870;Tortas y hamburguesas el gordo;Ricardo B. Anaya;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;low;closed
+132854;Sirlone;carr. mexico;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;medium;closed
+132937;rockabilly ;agustin de iturbide;San Luis Potosi;San Luis Potosi;Full_Bar;section;informal;low;closed
+132856;Unicols Pizza;Plaza del Carmen;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;low;closed
+132668;TACOS EL GUERO;;Cd Victoria;tamaulipas;No_Alcohol_Served;none;informal;low;closed
+135033;Restaurant El Muladar de Calzada;De Guadalupe 460 San Miguelito;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;section;informal;medium;closed
+132862;La Posada del Virrey;Av. V. Carranza;San Luis Potosi;San Luis Potosi;Wine-Beer;none;casual;high;closed
+134983;Restaurant and Bar and Clothesline Carlos N Charlies;Domingo 10 711 El Empleado;Cuernavaca;Morelos;Full_Bar;section;informal;high;closed
+132851;KFC;;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;low;closed
+135013;Giovannis;40 Norte Civac 1RA. Seccion;Jiutepec;Morelos;No_Alcohol_Served;none;informal;low;closed
+135042;Restaurant Oriental Express;Tangamanga 7 Tangamanga;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+132768;Mariscos Tia Licha;avenida salvador montiel ;cuernavaca;morelos;No_Alcohol_Served;not permitted;casual;medium;closed
+132561;cafe ambar;;;;No_Alcohol_Served;none;informal;low;closed
+135045;Restaurante la Gran Via;Venustiano Carranza 560 Centro;San Luis Potosi;San Luis Potosi;Wine-Beer;none;casual;high;closed
+132847;don burguers;r.b. anaya esq. florencia;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;low;open
+135054;Restaurante y Pescaderia Tampico;Ricardo B. Anaya 2700 Estrella de Oriente;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;high;closed
+134975;Rincon del Bife;;;;Full_Bar;section;informal;high;closed
+135053;La Fontana Pizza Restaurante and Cafe;Satelite 606 Satelite;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;section;informal;high;closed
+135050;Restaurante la Estrella de Dima;Soledad Sn Arboledas de Soledad;Soledad;San Luis Potosi;Wine-Beer;none;informal;high;closed
+135025;El Rincon de San Francisco;1a. de Lozada 1;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135030;Preambulo Wifi Zone Cafe;Anahuac 805;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135057;El Herradero Restaurante and Bar;Costado Sur Central Camionera Km 2;San Luis Potosi;San Luis Potosi;Wine-Beer;section;informal;medium;closed
+135079;Koye Sushi;Nereo Rodriguez Barragan 450 E Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;high;closed
+134992;Restaurant Teely;La Pradera;Cuernavaca;Morelos;Wine-Beer;section;casual;high;closed
+132954;la parroquia;venustiano carranza;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;medium;closed
+135041;Luna Cafe;Francisco I. Madero 215;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;medium;closed
+132608;Hamburguesas La perica;cd. mier;Cd Victoria;Tamaulipas;No_Alcohol_Served;permitted;informal;low;open
+135046;Restaurante El Reyecito;Agricultura 595 del Valle;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+132564;churchs;;;;No_Alcohol_Served;none;informal;low;closed
+132869;Dominos Pizza;Ricardo B. Anaya;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;medium;closed
+132925;el pueblito;;;;Wine-Beer;not permitted;informal;medium;closed
+132955;emilianos;venustiano carranza;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;low;closed
+135059;Restaurant Bar Hacienda los Martinez;Santos Degollado 745 los Alamitos;San Luis Potosi;San Luis Potosi;Wine-Beer;section;informal;medium;closed
+135001;Vips;Emiliano Zapata No. 825 Tlaltenongo;Cuernavaca;Morelos;Wine-Beer;none;informal;medium;closed
+135063;Restaurante Alhondiga;Alhondiga 62 Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135080;los Toneles;Estatuto Juridico 1040 Burocratas;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;section;informal;high;closed
+135000;Restaurant los Pinos;Federal Mexico - Acapulco 10 3 de Mayo;Cuernavaca;Morelos;No_Alcohol_Served;none;informal;medium;closed
+135066;Restaurante Guerra;20 de Noviembre 1817 Tlaxcala;San Luis Potosi;San Luis Potosi;Wine-Beer;section;informal;high;closed
+135034;Michiko Restaurant Japones;Cordillera de Los Alpes 160 Lomas 2 Seccion;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135060;Restaurante Marisco Sam;Ignacio Allende 785 Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135055;la Cochinita Pibil Restaurante Yucateco;Venustiano Carranza 2175 Jardin;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;section;informal;high;closed
+135108;Potzocalli;Carretera Central Sn;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;low;closed
+135074;Restaurante la Parroquia Potosina;Venustiano Carranza 303 Centro;San Luis Potosi;San Luis Potosi;Wine-Beer;section;informal;high;closed
+135018;El Oceano Dorado;Libramiento Burgos Colonia Las Animas;Cuernavaca;Morelos;Full_Bar;permitted;informal;medium;open
+135064;Restaurante El Chivero S.A. de C.V.;Angel Veral 328 Altamira;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;high;closed
+135038;Restaurant la Chalita;Guajardo Sn San Luis Potosi Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;section;informal;medium;closed
+135081;El Club;Mexico 810 Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+132723;Gordas de morales;;;San Luis Potosi;Full_Bar;section;informal;medium;closed
+135051;Restaurante Versalles;Francisco I. Madero 145 Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;section;informal;low;closed
+135021;Subway;Rio Mayo 17 Vista Hermosa;Cuernavaca;Morelos;No_Alcohol_Served;not permitted;informal;low;closed
+135052;La Cantina Restaurante;Ignacio Aldama 300 Centro;San Luis Potosi;San Luis Potosi;Full_Bar;none;informal;high;closed
+132845;Cenaduria El Rincón de Tlaquepaque;av. seminario;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135011;Los Vikingos;36 Sur Civac;Jiutepec;Morelos;No_Alcohol_Served;none;informal;medium;closed
+132858;Hamburguesas Valle Dorado;Av. Coral;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;low;closed
+135026;la Cantina;Capitan Caldera No. 420 Tequisqueapan;San Luis Potosi;San Luis Potosi;Full_Bar;none;informal;high;closed
+132884;dairy queen;;;;No_Alcohol_Served;none;informal;low;closed
+135016;Arrachela Grill;69 Tres De Mayo;Cuernavaca;Morelos;No_Alcohol_Served;none;informal;medium;closed
+135104;vips;;;;Full_Bar;not permitted;informal;medium;closed
+132630;palomo tec;blvrd emilio portes gil;Cd Victoria;tamaulipas;No_Alcohol_Served;none;informal;low;closed
+135047;Restaurante Casa de las Flores;General Mariano Arista 1205 Barrio de Tequisquiap;San Luis Potosi;San Luis Potosi;Wine-Beer;section;informal;high;closed
+132951;VIPS;NICOLAS ZAPATA 300;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;casual;low;closed
+132665;TACOS CORRECAMINOS;;Cd Victoria;tamaulipas;No_Alcohol_Served;none;informal;low;closed
+135044;Restaurant Wu Zhuo Yi;Himno Nacional 100 Avenida;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135035;El Mundo de la Pasta;Rio Papaloapan 265 Lomas de San Luis (3);San Luis Potosi;San Luis Potosi;No_Alcohol_Served;section;informal;high;closed
+135071;Restaurante la Cantina;De La Estrella 2005 Estrella de Oriente;San Luis Potosi;San Luis Potosi;Full_Bar;section;informal;medium;closed
+132834;Gorditas Doa Gloria;sevilla y olmedo 715 a;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;casual;low;closed
+132846;el lechon potosino ;circuito oriente esq. carretera 57;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;permitted;casual;low;open
+135048;Restaurante Bar Fu-hao;Jesus Goytortua 390 Tangamanga;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;high;closed
+132717;tortas hawai;;;;No_Alcohol_Served;not permitted;informal;medium;closed
+132861;Carls Jr;Av. V. Carranza;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;medium;closed
+132885;Hamburguesas saul;Av. Saan Luis enttre moctezuma y salinas;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;low;closed
+132740;Carreton de Flautas y Migadas;;Cd Victoria;Tamaulipas;No_Alcohol_Served;permitted;informal;low;open
+132830;Rincon Huasteco;;;;No_Alcohol_Served;none;informal;low;closed
+132773;El cotorreo;Emiliano Zapata Col. Tres de Mayo;Cuernavaca;Morelos;Wine-Beer;permitted;informal;low;open
+132706;Gorditas Dona Tota;Zaragoza entre Francisco Zarco y Lopez Velarde;Cd Victoria;Tamaulipas;No_Alcohol_Served;not permitted;informal;medium;closed
+132872;Pizzeria Julios;;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;medium;closed
+134987;Chilis Cuernavaca;Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas;Cuernavaca;Morelos;Wine-Beer;none;informal;medium;closed
+132572;Cafe Chaires;;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;low;closed
+132958;tacos los volcanes;avenida hivno nacional;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;low;closed
+132733;Little Cesarz;;Cd Victoria;Tamaulipas;No_Alcohol_Served;not permitted;informal;medium;closed
+132922;cafe punta del cielo;;;;No_Alcohol_Served;permitted;formal;medium;closed
+132715;tacos de la estacion;;;;No_Alcohol_Served;none;informal;low;open
+135027;Restaurant Orizatlan;Pascual M. Hernandez 240;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;medium;closed
+132767;Restaurant Familiar El Chino;Paseo de las Fuentes;Jiutepec;Morelos;Wine-Beer;permitted;casual;medium;open
+135039;Restaurant de Mariscos de Picon;Miguel Barragan 46 Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;section;informal;low;closed
+134996;Sanborns Casa Piedra;Lomas del Mirador;Cuernavaca;Morelos;Wine-Beer;only at bar;informal;medium;closed
+132755;La Estrella de Dimas;Av. de los Pintores;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135043;pizza clasica;524 Soledad de Graciano Sanchez;Soledad;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+132654;Carnitas Mata  Calle 16 de Septiembre;16 de Septiembre;Cd Victoria;tamaulipas;No_Alcohol_Served;none;informal;low;closed
+135049;Restaurante de Mariscos la Langosta;Cordillera de Los Alpes 675 Loma Verde;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135073;Restaurante Bar El Gallinero;Pascual M. Hernandez 210 Centro;San Luis Potosi;San Luis Potosi;Wine-Beer;section;informal;high;closed
+132560;puesto de gorditas;frente al tecnologico;Cd Victoria;tamaulipas;No_Alcohol_Served;permitted;informal;low;open
+134976;Log Yin;;;;No_Alcohol_Served;none;informal;low;closed
+135075;Mariscos El Pescador;Himno Nacional 2104 Tangamanga;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+132660;carnitas mata calle Emilio Portes Gil;Emilio Portes Gil;Cd Victoria;tamaulipas;No_Alcohol_Served;none;informal;low;closed
+132921;crudalia;;;;Wine-Beer;section;casual;low;open
+132594;tacos de barbacoa enfrente del Tec;;;;No_Alcohol_Served;not permitted;informal;low;open
+134986;Restaurant Las Mananitas;Ricardo Linares 107;Cuernavaca;Morelos;Wine-Beer;none;formal;high;closed
+135062;Restaurante El Cielo Potosino;Julian de Los Reyes 400 Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+132766;Mikasa;Himno nacional esq. Blvd. Juarez;Cuernavaca;Morelos;Wine-Beer;none;informal;medium;closed
+135088;Cafeteria cenidet;Interior Internado Palmira SN;Cuernavaca;Morelos;No_Alcohol_Served;not permitted;informal;low;closed
+135058;Restaurante Tiberius;Munoz Sn Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+132754;Cabana Huasteca;Cuauhtemoc 455;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+132584;Gorditas Dona Tota;;;;No_Alcohol_Served;not permitted;informal;medium;closed
+135032;Cafeteria y Restaurant El Pacifico;Constitucion 200 Centro;San Luis Potosi;San Luis Potosi;Wine-Beer;section;informal;medium;closed
+135028;La Virreina;Av. Carranza 830;San Luis Potosi;San Luis Potosi;Wine-Beer;none;informal;medium;closed
+135085;Tortas Locas Hipocampo;Venustiano Carranza 719 Centro;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;medium;closed
+132663;tacos abi;;Cd Victoria;tamaulipas;No_Alcohol_Served;none;informal;low;closed
+132626;la perica hamburguesa;;Cd Victoria;tamaulipas;No_Alcohol_Served;none;informal;medium;closed
+132583;McDonalds Centro;Rayon sn col. Centro;Cuernavaca;Morelos;No_Alcohol_Served;not permitted;informal;low;closed
+132866;Chaires;Ricardo B. Anaya;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;not permitted;informal;medium;closed
+135072;Sushi Itto;Venustiano Carranza 1809 C Polanco;San Luis Potosi;San Luis Potosi;No_Alcohol_Served;none;informal;medium;closed
+135109;Paniroles;;;;Wine-Beer;not permitted;informal;medium;closed
+135019;Restaurant Bar Coty y Pablo;Paseo de Las Fuentes 24 Pedregal de Las Fuentes;Jiutepec;Morelos;No_Alcohol_Served;none;informal;low;closed
+132877;sirloin stockade;;;;No_Alcohol_Served;none;informal;low;closed
